@@ -1,0 +1,59 @@
+matthewmalone
+Matthew Malone
+Sydney, Australia
+==================================================================
+https://keybase.io/matthewmalone
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.matthewmalone.com.au
+  * I am matthewmalone (https://keybase.io/matthewmalone) on keybase.
+  * I have a public key ASAA7vM2-k5Tds1SQCYRjcbM_x4_Xgto8pSfePCnwXEXWgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012000eef336fa4e5376cd524026118dc6ccff1e3f5e0b68f2949f78f0a7c171175a0a",
+      "host": "keybase.io",
+      "kid": "012000eef336fa4e5376cd524026118dc6ccff1e3f5e0b68f2949f78f0a7c171175a0a",
+      "uid": "17f91b28e4dc55a7483b00eba90e9919",
+      "username": "matthewmalone"
+    },
+    "merkle_root": {
+      "ctime": 1568379328,
+      "hash": "6340e7c00e299c82a026b56f49a07ef07eaab148dfcd1a4920a4121850aa1dfbba7e3714082c5cd352a0e9ac7b91a94ee61f010c50e287b396ca4c0b870acc70",
+      "hash_meta": "5862f57c7ada41a279250b06db576590fbdd392802daab1f3a1d263e033f06f5",
+      "seqno": 7151650
+    },
+    "service": {
+      "entropy": "YI3EylhZGQCIJkuS/jJOO+QO",
+      "hostname": "www.matthewmalone.com.au",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568379347,
+  "expire_in": 504576000,
+  "prev": "07b5877dcc68bde7373a58c4ecb6e3211fe4ae2ea911480f9f6b9da2f90ec84f",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgAO7zNvpOU3bNUkAmEY3GzP8eP14LaPKUn3jwp8FxF1oKp3BheWxvYWTESpcCC8QgB7WHfcxovec3OljE7LbjIR/kri6pEUgPn2udovkOyE/EIKFnOnVl2ASd8HPgNglly4ItUkNI932LaEJyt6LZqpAWAgHCo3NpZ8RAzqdcbYymoR36cFCjrnGmuylTOCSQoggokeovWHLtWEUxb3G2Cmn5T30yLTVBmwnnW621NVUNHYG07A8CNHxcDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIORc9OipgVZ1FJGXU8ZXbcq+JSJaJtkevDV81iegL6Bqo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/matthewmalone
+
+==================================================================
